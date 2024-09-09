@@ -97,6 +97,7 @@
 
 * [zeyu-zh/TrustFL](https://github.com/zeyu-zh/TrustFL) - Enabling Execution Assurance of Federated Learning at Untrusted Participants. 
 * [ftramer/slalom](https://github.com/ftramer/slalom) - Slalom: Fast, Verifiable and Private Execution of Neural Networks in Trusted Hardware. 
+* [Phala-Network/h100-llm-benchmark](https://github.com/Phala-Network/h100-llm-benchmark) - Confidential Computing on nVIDIA H100 GPU: A Performance Benchmark Study
 
 ## NETWORK
 
